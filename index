@@ -31,3 +31,42 @@
                    <button class="parametro-senha_botao">+</button>
                 </div>
              </div>
+             <div class="parametro-senha">
+             <h4 class="parametro-senha_titulo">Caracteristica da senha</h4>
+             <div class="parametro-senha-checbox">
+               <input name="maisculo"> type="checkbox" class="checkbox" checkd>
+               <label for="minusculo">Letras maiusculas</label>
+             </div>
+             <div class="parametro-senha-checbox">
+             <input name="maisculo"> type="checkbox" class="checkbox" checkd>
+               <label for="minusculo">Letras minusculas</label>
+             </div>
+             <div class="parametro-senha-checbox">
+               <input name="maisculo"> type="checkbox" class="checkbox" checkd>
+                 <label for="minusculo">Numeros</label>
+             </div>
+                 <div class="parametro-senha-checbox">
+                  <input name="maisculo"> type="checkbox" class="checkbox" checkd>
+                    <label for="minusculo">Simbolos</label>
+                 </div>
+             </div>
+             <div class="parametro-senha">
+               <h4 class="parametro-senha_titulo">Força da senha</h4>
+               <div class="barra"></div>
+               <div class="forca fraca"></div>
+               <div class="parametro-senha_textos">
+                  <p>fraca</p>
+                  <p>Média</p>
+                  <p>Forte</p>
+               </div>
+               <p class="entropia"></p>
+             </div>
+          </div>
+        </div>
+        </section>
+        <script src="main.js"></script>
+</body>
+<br><br><br>
+<br><br><br>
+<div style="text-align:center;">
+   <a href=""
